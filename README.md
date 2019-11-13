@@ -1,2 +1,2 @@
 # AdvancedProgramming
-Advanced Programming Class 2018-2019
+Advanced Programming Class 2019
