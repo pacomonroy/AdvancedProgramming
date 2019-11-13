@@ -4,7 +4,7 @@
 
 * Programación avanzada: Apuntadores y arreglos
 
-* Fecha: 1-Feb-2018
+* Fecha: 1-Feb-2019
 
 * Autor: A01360926 Francisco Monroy
 
